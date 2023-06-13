@@ -1,0 +1,18 @@
+[
+	{
+		"address" : "HuiZhou",
+		"identityCardNum" : "123456123412121234",
+		"mailbox" : "1234567890@qq.com",
+		"name" : "Jack",
+		"phoneNum" : "12345678901",
+		"sex" : "man"
+	},
+	{
+		"address" : "GuangDong",
+		"identityCardNum" : "12345612341212123X",
+		"mailbox" : "1234567890@qq.com",
+		"name" : "GaoQiQiang",
+		"phoneNum" : "12345678901",
+		"sex" : "man"
+	}
+]

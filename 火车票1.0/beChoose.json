@@ -1,0 +1,21 @@
+{
+	"date" : "2023-05-16",
+	"endPlace" : "GZ",
+	"endTime" : "8:40",
+	"id" : 3,
+	"man" : 
+	[
+		{
+			"address" : "HuiZhou",
+			"identityCardNum" : "123456123412121234",
+			"mailbox" : "1234567890@qq.com",
+			"name" : "Jack",
+			"phoneNum" : "12345678901",
+			"sex" : "man"
+		}
+	],
+	"price" : 45.5,
+	"startTime" : "8:07",
+	"trainNum" : "c7112",
+	"voteNum" : 1
+}
