@@ -1,0 +1,1072 @@
+[
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "8:47",
+		"price" : 31.5,
+		"startTime" : "7:00",
+		"trainNum" : "k231",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "7:00",
+		"price" : 31.5,
+		"startTime" : "6:04",
+		"trainNum" : "k793",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "8:14",
+		"price" : 45.5,
+		"startTime" : "7:41",
+		"trainNum" : "c7120",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "8:40",
+		"price" : 45.5,
+		"startTime" : "8:07",
+		"trainNum" : "c7112",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "9:02",
+		"price" : 45.5,
+		"startTime" : "8:45",
+		"trainNum" : "c1002",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "9:45",
+		"price" : 49.5,
+		"startTime" : "9:28",
+		"trainNum" : "G6218",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "10:11",
+		"price" : 48.5,
+		"startTime" : "9:54",
+		"trainNum" : "G822",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "11:12",
+		"price" : 50.5,
+		"startTime" : "10:39",
+		"trainNum" : "G7080",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "11:29",
+		"price" : 49.5,
+		"startTime" : "11:11",
+		"trainNum" : "G6528",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "16:17",
+		"price" : 50.5,
+		"startTime" : "14:33",
+		"trainNum" : "G7082",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "16:50",
+		"price" : 50.5,
+		"startTime" : "16:17",
+		"trainNum" : "G7020",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "17:40",
+		"price" : 49.5,
+		"startTime" : "17:23",
+		"trainNum" : "G1016",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "20:36",
+		"price" : 84,
+		"startTime" : "19:47",
+		"trainNum" : "D7114",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "21:50",
+		"price" : 68.5,
+		"startTime" : "20:37",
+		"trainNum" : "D725",
+		"voteNum" : 109
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "22:40",
+		"price" : 49.5,
+		"startTime" : "22:23",
+		"trainNum" : "G6210",
+		"voteNum" : 89
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "GZ",
+		"endPlaceCname" : "广州",
+		"endTime" : "23:52",
+		"price" : 50.5,
+		"startTime" : "23:20",
+		"trainNum" : "C7126",
+		"voteNum" : 20
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "4:18",
+		"price" : 65,
+		"startTime" : "3:32",
+		"trainNum" : "K105",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "5:52",
+		"price" : 56,
+		"startTime" : "5:11",
+		"trainNum" : "K1019",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "8:00",
+		"price" : 58.5,
+		"startTime" : "7:07",
+		"trainNum" : "C7031",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "8:52",
+		"price" : 70,
+		"startTime" : "8:05",
+		"trainNum" : "D3309",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "9:35",
+		"price" : 54.5,
+		"startTime" : "9:17",
+		"trainNum" : "G6255",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "10:53",
+		"price" : 54.5,
+		"startTime" : "10:35",
+		"trainNum" : "G6013",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "12:11",
+		"price" : 25,
+		"startTime" : "11:50",
+		"trainNum" : "D3651",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "13:13",
+		"price" : 54.5,
+		"startTime" : "12:55",
+		"trainNum" : "G9645",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "15:16",
+		"price" : 58.5,
+		"startTime" : "14:19",
+		"trainNum" : "C7107",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "17:45",
+		"price" : 54.5,
+		"startTime" : "17:28",
+		"trainNum" : "G5065",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "18:59",
+		"price" : 54.5,
+		"startTime" : "18:42",
+		"trainNum" : "G6337",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "20:31",
+		"price" : 58.5,
+		"startTime" : "20:14",
+		"trainNum" : "G6171",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "23:28",
+		"price" : 58.5,
+		"startTime" : "22:35",
+		"trainNum" : "C7039",
+		"voteNum" : 45
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SZ",
+		"endPlaceCname" : "深圳",
+		"endTime" : "23:22",
+		"price" : 54.5,
+		"startTime" : "23:05",
+		"trainNum" : "G9707",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ZH",
+		"endPlaceCname" : "珠海",
+		"endTime" : "11:53",
+		"price" : 139.5,
+		"startTime" : "10:19",
+		"trainNum" : "G6336",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ZH",
+		"endPlaceCname" : "珠海",
+		"endTime" : "16:43",
+		"price" : 104.5,
+		"startTime" : "14:53",
+		"trainNum" : "G6338",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SG",
+		"endPlaceCname" : "韶关",
+		"endTime" : "9:01",
+		"price" : 214,
+		"startTime" : "7:43",
+		"trainNum" : "G1312",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SG",
+		"endPlaceCname" : "韶关",
+		"endTime" : "10:51",
+		"price" : 139,
+		"startTime" : "9:38",
+		"trainNum" : "G6030",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SG",
+		"endPlaceCname" : "韶关",
+		"endTime" : "15:39",
+		"price" : 98.5,
+		"startTime" : "12:21",
+		"trainNum" : "K932",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SG",
+		"endPlaceCname" : "韶关",
+		"endTime" : "17:22",
+		"price" : 214,
+		"startTime" : "16:07",
+		"trainNum" : "G1190",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SG",
+		"endPlaceCname" : "韶关",
+		"endTime" : "23:29",
+		"price" : 125.5,
+		"startTime" : "20:19",
+		"trainNum" : "K9276",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SG",
+		"endPlaceCname" : "韶关",
+		"endTime" : "22:23",
+		"price" : 214,
+		"startTime" : "21:04",
+		"trainNum" : "G6024",
+		"voteNum" : 41
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ST",
+		"endPlaceCname" : "汕头",
+		"endTime" : "10:44",
+		"price" : 298,
+		"startTime" : "7:34",
+		"trainNum" : "D7113",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ST",
+		"endPlaceCname" : "汕头",
+		"endTime" : "12:13",
+		"price" : 259,
+		"startTime" : "9:19",
+		"trainNum" : "D7153",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ST",
+		"endPlaceCname" : "汕头",
+		"endTime" : "15:55",
+		"price" : 166,
+		"startTime" : "13:03",
+		"trainNum" : "D9703",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ST",
+		"endPlaceCname" : "汕头",
+		"endTime" : "18:42",
+		"price" : 162,
+		"startTime" : "15:35",
+		"trainNum" : "D7141",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ST",
+		"endPlaceCname" : "汕头",
+		"endTime" : "21:30",
+		"price" : 265,
+		"startTime" : "18:48",
+		"trainNum" : "D7169",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ST",
+		"endPlaceCname" : "汕头",
+		"endTime" : "23:17",
+		"price" : 291.5,
+		"startTime" : "20:40",
+		"trainNum" : "G6357",
+		"voteNum" : 72
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "FS",
+		"endPlaceCname" : "佛山",
+		"endTime" : "9:35",
+		"price" : 83.5,
+		"startTime" : "7:00",
+		"trainNum" : "K231",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "FS",
+		"endPlaceCname" : "佛山",
+		"endTime" : "13:22",
+		"price" : 69.5,
+		"startTime" : "12:41",
+		"trainNum" : "G2981",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "FS",
+		"endPlaceCname" : "佛山",
+		"endTime" : "16:55",
+		"price" : 69.5,
+		"startTime" : "16:17",
+		"trainNum" : "G418",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "FS",
+		"endPlaceCname" : "佛山",
+		"endTime" : "18:31",
+		"price" : 74.5,
+		"startTime" : "17:20",
+		"trainNum" : "D3666",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "FS",
+		"endPlaceCname" : "佛山",
+		"endTime" : "19:11",
+		"price" : 67.5,
+		"startTime" : "18:27",
+		"trainNum" : "G2962",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "JMD",
+		"endPlaceCname" : "江门东",
+		"endTime" : "12:16",
+		"price" : 127.5,
+		"startTime" : "10:59",
+		"trainNum" : "G6048",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "JMD",
+		"endPlaceCname" : "江门东",
+		"endTime" : "13:43",
+		"price" : 127.5,
+		"startTime" : "12:27",
+		"trainNum" : "G6088",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "JMD",
+		"endPlaceCname" : "江门东",
+		"endTime" : "14:32",
+		"price" : 127.5,
+		"startTime" : "13:22",
+		"trainNum" : "G6056",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "JMD",
+		"endPlaceCname" : "江门东",
+		"endTime" : "17:49",
+		"price" : 90.5,
+		"startTime" : "16:38",
+		"trainNum" : "G6084",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ZJ",
+		"endPlaceCname" : "湛江",
+		"endTime" : "14:36",
+		"price" : 283.5,
+		"startTime" : "10:59",
+		"trainNum" : "G6048",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ZJ",
+		"endPlaceCname" : "湛江",
+		"endTime" : "15:58",
+		"price" : 436.5,
+		"startTime" : "12:27",
+		"trainNum" : "G6088",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ZJ",
+		"endPlaceCname" : "湛江",
+		"endTime" : "20:04",
+		"price" : 436.5,
+		"startTime" : "16:38",
+		"trainNum" : "G6084",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "MM",
+		"endPlaceCname" : "茂名",
+		"endTime" : "14:50",
+		"price" : 160.5,
+		"startTime" : "7:00",
+		"trainNum" : "K231",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "MM",
+		"endPlaceCname" : "茂名",
+		"endTime" : "15:11",
+		"price" : 160,
+		"startTime" : "7:00",
+		"trainNum" : "K231",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "MM",
+		"endPlaceCname" : "茂名",
+		"endTime" : "13:59",
+		"price" : 352.5,
+		"startTime" : "10:59",
+		"trainNum" : "G6048",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "MM",
+		"endPlaceCname" : "茂名",
+		"endTime" : "15:20",
+		"price" : 352.5,
+		"startTime" : "12:27",
+		"trainNum" : "G6088",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "MM",
+		"endPlaceCname" : "茂名",
+		"endTime" : "19:27",
+		"price" : 231.5,
+		"startTime" : "16:38",
+		"trainNum" : "G6048",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "5:50",
+		"price" : 38.5,
+		"startTime" : "5:07",
+		"trainNum" : "K438",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "7:34",
+		"price" : 51,
+		"startTime" : "7:18",
+		"trainNum" : "G636",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "9:05",
+		"price" : 87,
+		"startTime" : "8:04",
+		"trainNum" : "D385",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "8:32",
+		"price" : 51,
+		"startTime" : "8:16",
+		"trainNum" : "G2710",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "10:01",
+		"price" : 62,
+		"startTime" : "9:11",
+		"trainNum" : "D7121",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "11:13",
+		"price" : 94.5,
+		"startTime" : "10:23",
+		"trainNum" : "G6325",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "13:02",
+		"price" : 132,
+		"startTime" : "11:38",
+		"trainNum" : "D2321",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "13:02",
+		"price" : 51,
+		"startTime" : "12:46",
+		"trainNum" : "G2698",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "13:47",
+		"price" : 38.5,
+		"startTime" : "13:04",
+		"trainNum" : "K34",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "14:43",
+		"price" : 46,
+		"startTime" : "14:27",
+		"trainNum" : "G2772",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "17:28",
+		"price" : 94.5,
+		"startTime" : "16:39",
+		"trainNum" : "G9601",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "18:05",
+		"price" : 65,
+		"startTime" : "17:06",
+		"trainNum" : "D3313",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "19:42",
+		"price" : 38.5,
+		"startTime" : "19:01",
+		"trainNum" : "Z148",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "21:57",
+		"price" : 56,
+		"startTime" : "21:08",
+		"trainNum" : "D7165",
+		"voteNum" : 85
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "HZ",
+		"endPlaceCname" : "惠州",
+		"endTime" : "21:44",
+		"price" : 46,
+		"startTime" : "21:27",
+		"trainNum" : "G6322",
+		"voteNum" : 48
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "MZ",
+		"endPlaceCname" : "梅州",
+		"endTime" : "13:10",
+		"price" : 83.5,
+		"startTime" : "8:25",
+		"trainNum" : "T8382",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "MZ",
+		"endPlaceCname" : "梅州",
+		"endTime" : "14:42",
+		"price" : 329,
+		"startTime" : "10:59",
+		"trainNum" : "D7161",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "MZ",
+		"endPlaceCname" : "梅州",
+		"endTime" : "17:20",
+		"price" : 83.5,
+		"startTime" : "12:36",
+		"trainNum" : "T8368",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "MZ",
+		"endPlaceCname" : "梅州",
+		"endTime" : "19:09",
+		"price" : 207,
+		"startTime" : "16:00",
+		"trainNum" : "D7117",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "MZ",
+		"endPlaceCname" : "梅州",
+		"endTime" : "22:11",
+		"price" : 228.5,
+		"startTime" : "18:42",
+		"trainNum" : "G6337",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SW",
+		"endPlaceCname" : "汕尾",
+		"endTime" : "8:19",
+		"price" : 107,
+		"startTime" : "7:09",
+		"trainNum" : "D7145",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SW",
+		"endPlaceCname" : "汕尾",
+		"endTime" : "9:09",
+		"price" : 107,
+		"startTime" : "7:58",
+		"trainNum" : "D7113",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SW",
+		"endPlaceCname" : "汕尾",
+		"endTime" : "10:32",
+		"price" : 133,
+		"startTime" : "9:11",
+		"trainNum" : "D7121",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SW",
+		"endPlaceCname" : "汕尾",
+		"endTime" : "13:03",
+		"price" : 87,
+		"startTime" : "11:31",
+		"trainNum" : "D3121",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SW",
+		"endPlaceCname" : "汕尾",
+		"endTime" : "14:01",
+		"price" : 164,
+		"startTime" : "12:27",
+		"trainNum" : "D2401",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SW",
+		"endPlaceCname" : "汕尾",
+		"endTime" : "15:05",
+		"price" : 175,
+		"startTime" : "13:09",
+		"trainNum" : "D7109",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SW",
+		"endPlaceCname" : "汕尾",
+		"endTime" : "16:37",
+		"price" : 158,
+		"startTime" : "14:52",
+		"trainNum" : "D7149",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SW",
+		"endPlaceCname" : "汕尾",
+		"endTime" : "19:21",
+		"price" : 206,
+		"startTime" : "17:14",
+		"trainNum" : "D7157",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SW",
+		"endPlaceCname" : "汕尾",
+		"endTime" : "20:29",
+		"price" : 181,
+		"startTime" : "18:45",
+		"trainNum" : "D3655",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SW",
+		"endPlaceCname" : "汕尾",
+		"endTime" : "21:54",
+		"price" : 165.5,
+		"startTime" : "20:40",
+		"trainNum" : "G6357",
+		"voteNum" : 47
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "SW",
+		"endPlaceCname" : "汕尾",
+		"endTime" : "22:28",
+		"price" : 120,
+		"startTime" : "21:08",
+		"trainNum" : "D7165",
+		"voteNum" : 108
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "YJ",
+		"endPlaceCname" : "阳江",
+		"endTime" : "13:16",
+		"price" : 246.5,
+		"startTime" : "10:59",
+		"trainNum" : "G6048",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "YJ",
+		"endPlaceCname" : "阳江",
+		"endTime" : "14:38",
+		"price" : 165.5,
+		"startTime" : "12:27",
+		"trainNum" : "G6088",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "YJ",
+		"endPlaceCname" : "阳江",
+		"endTime" : "15:33",
+		"price" : 165.5,
+		"startTime" : "13:22",
+		"trainNum" : "G6056",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "YJ",
+		"endPlaceCname" : "阳江",
+		"endTime" : "18:44",
+		"price" : 246.5,
+		"startTime" : "16:38",
+		"trainNum" : "G6084",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ZS",
+		"endPlaceCname" : "中山",
+		"endTime" : "11:26",
+		"price" : 99.5,
+		"startTime" : "10:19",
+		"trainNum" : "G6336",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "ZS",
+		"endPlaceCname" : "中山",
+		"endTime" : "16:14",
+		"price" : 74.5,
+		"startTime" : "14:53",
+		"trainNum" : "G6338",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "QY",
+		"endPlaceCname" : "清远",
+		"endTime" : "9:13",
+		"price" : 109,
+		"startTime" : "8:29",
+		"trainNum" : "G2138",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "QY",
+		"endPlaceCname" : "清远",
+		"endTime" : "10:01",
+		"price" : 109,
+		"startTime" : "9:17",
+		"trainNum" : "G6080",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "QY",
+		"endPlaceCname" : "清远",
+		"endTime" : "13:14",
+		"price" : 84,
+		"startTime" : "11:20",
+		"trainNum" : "K9223",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "QY",
+		"endPlaceCname" : "清远",
+		"endTime" : "13:42",
+		"price" : 99.5,
+		"startTime" : "12:21",
+		"trainNum" : "K932",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "QY",
+		"endPlaceCname" : "清远",
+		"endTime" : "20:12",
+		"price" : 109,
+		"startTime" : "19:28",
+		"trainNum" : "G9650",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "QY",
+		"endPlaceCname" : "清远",
+		"endTime" : "21:56",
+		"price" : 109,
+		"startTime" : "21:12",
+		"trainNum" : "G6036",
+		"voteNum" : 91
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "JY",
+		"endPlaceCname" : "揭阳",
+		"endTime" : "13:47",
+		"price" : 252,
+		"startTime" : "10:59",
+		"trainNum" : "D7161",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "JY",
+		"endPlaceCname" : "揭阳",
+		"endTime" : "21:35",
+		"price" : 294.5,
+		"startTime" : "18:42",
+		"trainNum" : "G6337",
+		"voteNum" : 0
+	},
+	{
+		"date" : "2023-05-16",
+		"endPlace" : "JY",
+		"endPlaceCname" : "揭阳",
+		"endTime" : "21:22",
+		"price" : 285.5,
+		"startTime" : "18:42",
+		"trainNum" : "G6337",
+		"voteNum" : 0
+	}
+]

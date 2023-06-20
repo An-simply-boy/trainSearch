@@ -1,0 +1,4 @@
+﻿  search.cpp
+C:\Users\86181\Desktop\mine\CwithC++\火车票3.0\search.cpp(23,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86181\Desktop\mine\CwithC++\火车票3.0\search.cpp(294,20): warning C4244: “参数”: 从“WPARAM”转换到“UINT”，可能丢失数据
+  火车票.vcxproj -> C:\Users\86181\Desktop\mine\CwithC++\火车票3.0\x64\Debug\火车票.exe

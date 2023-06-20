@@ -1,0 +1,18 @@
+[
+	{
+		"address" : "惠州",
+		"identityCardNum" : "123456123412121234",
+		"mailbox" : "1234567890@qq.com",
+		"name" : "高启强",
+		"phoneNum" : "12345678901",
+		"sex" : "woman"
+	},
+	{
+		"address" : "广东",
+		"identityCardNum" : "12345612341212123X",
+		"mailbox" : "1234567890@qq.com",
+		"name" : "GaoQi",
+		"phoneNum" : "12345678901",
+		"sex" : "man"
+	}
+]

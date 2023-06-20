@@ -1,0 +1,35 @@
+[
+	{
+		"date": "2023-05-16",
+		"endPlace": "GZ",
+		"endTime": "8:47",
+		"id": 0,
+		"price": 31.5,
+		"startTime": "7:00",
+		"trainNum": "k231",
+		"voteNum": 94,
+		"endPlaceCname": "广州"
+	},
+	{
+		"date": "2023-05-16",
+		"endPlace": "GZ",
+		"endTime": "7:00",
+		"id": 1,
+		"price": 31.5,
+		"startTime": "6:04",
+		"trainNum": "k793",
+		"voteNum": 57,
+		"endPlaceCname": "广州"
+	},
+	{
+		"date": "2023-05-16",
+		"endPlace": "GZ",
+		"endTime": "8:14",
+		"id": 2,
+		"price": 45.5,
+		"startTime": "7:41",
+		"trainNum": "c7120",
+		"voteNum": 42,
+		"endPlaceCname": "广州"
+	}
+]
